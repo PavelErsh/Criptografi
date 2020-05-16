@@ -1,0 +1,6 @@
+﻿  RSA.cpp
+C:\Users\pavel\source\repos\RSA\RSA\RSA.cpp(32,17): warning C4244: 'initializing': conversion from 'double' to 'unsigned __int64', possible loss of data
+C:\Users\pavel\source\repos\RSA\RSA\RSA.cpp(83,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\pavel\source\repos\RSA\RSA\RSA.cpp(98,13): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\pavel\source\repos\RSA\RSA\RSA.cpp(84,27): warning C4101: 'fi': unreferenced local variable
+  RSA.vcxproj -> C:\Users\pavel\source\repos\RSA\Debug\RSA.exe

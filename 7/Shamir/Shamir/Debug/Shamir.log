@@ -1,0 +1,17 @@
+﻿  Shamir.cpp
+C:\Users\pavel\source\repos\Shamir\Shamir\Shamir.cpp(101,22): warning C4101: 'y': unreferenced local variable
+C:\Users\pavel\source\repos\Shamir\Shamir\Shamir.cpp(101,19): warning C4101: 'x': unreferenced local variable
+C:\Users\pavel\source\repos\Shamir\Shamir\Shamir.cpp(132,16): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\pavel\source\repos\Shamir\Shamir\Shamir.cpp(138,22): warning C4101: 'y': unreferenced local variable
+C:\Users\pavel\source\repos\Shamir\Shamir\Shamir.cpp(138,19): warning C4101: 'x': unreferenced local variable
+C:\Users\pavel\source\repos\Shamir\Shamir\Shamir.cpp(173,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\pavel\source\repos\Shamir\Shamir\Shamir.cpp(187,14): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\pavel\source\repos\Shamir\Shamir\Shamir.cpp(199,14): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\pavel\source\repos\Shamir\Shamir\Shamir.cpp(205,31): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\pavel\source\repos\Shamir\Shamir\Shamir.cpp(205,27): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\pavel\source\repos\Shamir\Shamir\Shamir.cpp(205,23): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\pavel\source\repos\Shamir\Shamir\Shamir.cpp(205,19): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\pavel\source\repos\Shamir\Shamir\Shamir.cpp(205,15): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\pavel\source\repos\Shamir\Shamir\Shamir.cpp(205,12): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\pavel\source\repos\Shamir\Shamir\Shamir.cpp(88): warning C4715: 'SHAMIR': not all control paths return a value
+  Shamir.vcxproj -> C:\Users\pavel\source\repos\Shamir\Debug\Shamir.exe

@@ -1,0 +1,7 @@
+﻿  step_baby_step_giant.cpp
+C:\Users\pavel\source\repos\step_baby_step_giant\step_baby_step_giant\step_baby_step_giant.cpp(41,17): warning C4244: 'initializing': conversion from 'double' to 'unsigned __int64', possible loss of data
+C:\Users\pavel\source\repos\step_baby_step_giant\step_baby_step_giant\step_baby_step_giant.cpp(92,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\pavel\source\repos\step_baby_step_giant\step_baby_step_giant\step_baby_step_giant.cpp(135,36): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\pavel\source\repos\step_baby_step_giant\step_baby_step_giant\step_baby_step_giant.cpp(151,31): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\pavel\source\repos\step_baby_step_giant\step_baby_step_giant\step_baby_step_giant.cpp(159,31): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+  step_baby_step_giant.vcxproj -> C:\Users\pavel\source\repos\step_baby_step_giant\Debug\step_baby_step_giant.exe

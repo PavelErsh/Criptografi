@@ -1,0 +1,6 @@
+﻿  Gamal.cpp
+C:\Users\pavel\source\repos\Gamal\Gamal\Gamal.cpp(19,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\pavel\source\repos\Gamal\Gamal\Gamal.cpp(37,14): warning C4244: 'argument': conversion from 'double' to 'unsigned __int64', possible loss of data
+C:\Users\pavel\source\repos\Gamal\Gamal\Gamal.cpp(40,13): warning C4244: 'argument': conversion from 'double' to 'unsigned __int64', possible loss of data
+C:\Users\pavel\source\repos\Gamal\Gamal\Gamal.cpp(46,12): warning C4244: 'argument': conversion from 'double' to 'unsigned __int64', possible loss of data
+  Gamal.vcxproj -> C:\Users\pavel\source\repos\Gamal\Debug\Gamal.exe
