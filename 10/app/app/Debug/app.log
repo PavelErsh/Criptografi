@@ -1,0 +1,9 @@
+﻿  app.cpp
+C:\Users\pavel\source\repos\app\app\app.cpp(89,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\pavel\source\repos\app\app\app.cpp(121,19): warning C4244: 'argument': conversion from 'double' to 'unsigned __int64', possible loss of data
+C:\Users\pavel\source\repos\app\app\app.cpp(123,28): warning C4244: 'argument': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+C:\Users\pavel\source\repos\app\app\app.cpp(123,25): warning C4244: 'argument': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+C:\Users\pavel\source\repos\app\app\app.cpp(123,19): warning C4244: 'argument': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+C:\Users\pavel\source\repos\app\app\app.cpp(125,21): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\pavel\source\repos\app\app\app.cpp(125,18): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+  app.vcxproj -> C:\Users\pavel\source\repos\app\Debug\app.exe
